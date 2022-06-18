@@ -11,8 +11,16 @@ a, i{
     text-decoration: none;
 }
 
+.align-center{
+    text-align: center;
+}
+
 .secondary-color {
     color: #555;
+}
+
+.white{
+    color: white;
 }
 
 .center-image {
@@ -136,14 +144,16 @@ footer{
     border-top: 1px solid #CCC;
     height: 250px;
     padding: 30px;
+    background-color: #25282E;
 }
 
+
 footer i{
-    font-size: 20px;
+    font-size: 30px;
 }
 
 #social-icons-container{
-    padding: 25px;
+    padding: 20px;
 }
 
 #social-icons-container div{
@@ -158,3 +168,8 @@ footer p{
 a:hover i{
     color: #C1B696;
 }
+
+#refer{
+    padding: 10px 0px;
+}
+
